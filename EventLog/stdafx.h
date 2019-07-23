@@ -11,4 +11,9 @@
 
 
 
-// reference additional headers your program requires here
+#include <tchar.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <Windows.h>
+
+#pragma comment(lib, "Advapi32.lib")
